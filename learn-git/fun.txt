@@ -1,0 +1,3 @@
+/*“Hello world!” - said everyone, always*/
+alert("Hello world!");
+var num1 = 45;
